@@ -3,4 +3,6 @@ class PagesController < ApplicationController
   end
   def portfoliopage
   end
+  def blog
+  end
 end
